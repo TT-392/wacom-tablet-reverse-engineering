@@ -406,7 +406,9 @@
     "pinned_footprint_libs": [
       "local"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "local"
+    ]
   },
   "meta": {
     "filename": "reverse_engineer_pcb.kicad_pro",
