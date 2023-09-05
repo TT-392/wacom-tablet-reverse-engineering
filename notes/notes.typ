@@ -21,4 +21,24 @@ Data from the included pen, doesn't look very clear, might be because I partiall
 #image("graphics/scope_8.png", width: 100%),
 Data from an incompatible pen, from a different wacom tablet
 
+#pagebreak()
+= Huion
+#image("graphics/scope_12.png", width: 100%)
+no pressure
 
+#image("graphics/scope_13.png", width: 100%)
+top button
+
+#image("graphics/scope_14.png", width: 100%)
+bottom button
+
+#image("graphics/scope_15.png", width: 100%)
+lots of pressure
+
+#image("graphics/scope_16.png", width: 100%)
+lots of pressure + top button
+
+high frequency pulses section seems to be the same pulse at the same amplitude returned over different coils
+
+The pcb seems to have several 3 pin devices labeled "KN"
+for all intents and purposes, this chip seems to act like the 2SK3018
